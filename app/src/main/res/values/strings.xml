@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VR</string>
+    <string name="title_activity_voice_recognition_demo">VoiceRecognitionDemo</string>
+</resources>
